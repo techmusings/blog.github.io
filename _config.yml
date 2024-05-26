@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://techmusings.github.io"
 
 github:
   username: techmusings
@@ -87,7 +87,7 @@ pageviews:
 #     dark   - Use the dark color scheme
 #
 #theme_mode: # [light | dark]
-theme_mode: dark
+theme_mode: light
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
